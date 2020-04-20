@@ -8,4 +8,4 @@
 
 4. Chord System: Implemented a distributed chord system where the data is distributed across nodes. In a n node network, when searching for data, data can be found by contacting maximum O(log n) nodes.
 
-5. Blockchain: Implemented a program which takes a block from P2P bitcoin network, displays the transactions on the nodes. The program demonstrates how the network rejects your block when you manipulate the transactions.
+5. Blockchain: Implemented program to establish communication and succesfully communicate with a block in P2P bitcoin network.
